@@ -1,9 +1,9 @@
-***Aplicaciones Web ***
+***Aplicaciones Web***
 =======================
 
 ### Conceptos
 
-Linux
-HTTP1/1
-API RESTful
-Database
+- Linux
+- HTTP1/1
+- API RESTful
+- Database
